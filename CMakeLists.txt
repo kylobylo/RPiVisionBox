@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( CaptureCam )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( CaptureCam Main.cpp )
+target_link_libraries( CaptureCam ${OpenCV_LIBS} )

@@ -1,0 +1,3 @@
+/home/kyleschieffer/Documents/C/OpenCV/CameraCapture/build/CMakeFiles/CaptureCam.dir
+/home/kyleschieffer/Documents/C/OpenCV/CameraCapture/build/CMakeFiles/edit_cache.dir
+/home/kyleschieffer/Documents/C/OpenCV/CameraCapture/build/CMakeFiles/rebuild_cache.dir
